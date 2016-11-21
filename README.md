@@ -1,2 +1,2 @@
 # RProgrammingAssignment4
-Coursera course R Programming
+About the Week 4 assignment of R Programming by JHU
